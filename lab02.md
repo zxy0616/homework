@@ -35,11 +35,13 @@ Construct2是一款跨平台的二维游戏开发引擎，他不需要你有任�
 
 这时你的光标会变成一个小十字，在界面你想放置素材的位置一点
 然后弹出另一个小窗口。
+
 ![](images/小窗口.png)
 
 （如果想自己画出精灵就点击窗口左侧画笔工具自由发挥吧！）
 
 如图所示打开你下载好的背景图片，然后通过拖动图片来使图片达到你想要的效果，或通过左边栏来改变参数。
+
 ![](images/制作3.png)
 
 #### 精灵
@@ -51,11 +53,13 @@ Construct2是一款跨平台的二维游戏开发引擎，他不需要你有任�
 
 现在各种元素还不能动，我们需要给他们添加行为（即Behaviors).
 ![](images/openbehaviors.png)
+
 （具体各种行为介绍请参见Construct2官方教程）[官方教程](https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-3)
 
 按照你的需要给精灵添加完动作后，调整一下角度（运动方向由小正方形指向决定）和速度他们就可以在界面内移动了。
 ### 创建事件
 现在你的各种元素之间还没有产生联系，点击界面上方彩色边栏Event sheet1就可以在元素之间添加你需要的事件了，
+
 ![](images/event.png)
 
 关于各种事件的介绍请参见官网指南[官网指南](https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-4)
@@ -68,6 +72,7 @@ Construct2是一款跨平台的二维游戏开发引擎，他不需要你有任�
 ![](images/score.png)
 
 将名字改为Score，然后再次打开事件栏在设置射击目标死亡那一栏下，为system添加动作。
+
 ![](images/score2.png)
 
 将初始值设置为零。
